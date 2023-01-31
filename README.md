@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 ![CSS](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-934B8F?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+<br>
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-F2F2F2?style=for-the-badge&logo=microsoft-sql-server&logoColor=black)&nbsp;
 
