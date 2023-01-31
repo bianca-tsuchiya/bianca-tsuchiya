@@ -39,11 +39,18 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/C%23-934B8F?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-F2F2F2?style=for-the-badge&logo=microsoft-sql-server&logoColor=black)&nbsp;
+
 <img align="right" width="100" src="https://user-images.githubusercontent.com/110926923/215686686-2774e45f-8158-4cc0-a9b3-731b3c025714.gif">
 
-
-
+ 
+<h3> Social Media</h3>
+<div> 
+<a href = "mailto:biancatsuchiya2011@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/bianca-namie-hara-tsuchiya-17b31822a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
 
 
 <!-- ### Studying in this moment:
@@ -57,12 +64,7 @@ Here are some ideas to get you started:
 <br>
 </div> -->
 
- 
-<h3> Social Media</h3>
-<div> 
-<a href = "mailto:biancatsuchiya2011@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/bianca-namie-hara-tsuchiya-17b31822a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
