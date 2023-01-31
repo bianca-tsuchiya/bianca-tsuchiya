@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 <br>
 </div> -->
 
-![snake gif](https://github.com/biancatsuchiya/biancatsuchiya/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/bianca-tsuchiya/bianca-tsuchiya/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 
